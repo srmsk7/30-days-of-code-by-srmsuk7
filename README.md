@@ -3,7 +3,7 @@ my 30 Days of Code | C++ solutions
 
 | Day | Content | Link |
 | :---: | :---: | --- |
-| 0 | `Hello, World.` | C++ |
+| 0 | `Hello, World.` | [C++](Day 0 Hello World/day_0_hello_world.cpp) |
 | 1 | `Data Types` | C++ |
 | 2 | `Operators` | C++ |
 | 3 | `Intro to Conditional Statements` | C++ |
@@ -19,7 +19,7 @@ my 30 Days of Code | C++ solutions
 | 13 | `Abstract Classes` | |
 | 14 | `Scope` | |
 | 15 | `Linked List` | |
-| 16 | `Exceptions - String to Integer` | |
+| 16 | `Exceptions - String to Integer` | C++ |
 | 17 | `More Exceptions` | |
 | 18 | `Queues and Stacks` | |
 | 19 | `Interfaces` | |
