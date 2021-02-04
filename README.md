@@ -23,7 +23,7 @@ my 30 Days of Code | C++ solutions
 | 17 | `More Exceptions` | |
 | 18 | `Queues and Stacks` | |
 | 19 | `Interfaces` | |
-| 20 | `Sorting` | |
+| 20 | `Sorting` | [C++](https://github.com/srmsk7/30-days-of-code-by-srmsuk7/blob/main/Day%2020%20Sorting/day_20_sorting.cpp) |
 | 21 | `Generics` | |
 | 22 | `Binary Search Trees` | |
 | 23 | `BST Level-Order Traversal` | |
