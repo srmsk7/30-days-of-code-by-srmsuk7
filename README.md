@@ -28,7 +28,7 @@ my 30 Days of Code | C++ solutions
 | 22 | `Binary Search Trees` | |
 | 23 | `BST Level-Order Traversal` | |
 | 24 | `More Linked Lists` | |
-| 25 | `Running Time and Complexity` | |
+| 25 | `Running Time and Complexity` | [C++](https://github.com/srmsk7/30-days-of-code-by-srmsuk7/blob/main/Day%2025%20Running%20Time%20and%20Complexity/day_25_running_time_and_complexity.cpp) |
 | 26 | `Nested Logic` | |
 | 27 | `Testing` | |
 | 28 | `RegEx, Patterns, and Intro to Databases` | |
